@@ -33,9 +33,7 @@ dashboardPage(skin=NULL,
                           tags$h4("This is a tool will help you to find ideal tag words for your documents. 
                                   You can upload one or more PDF files." ),
                           
-                          
-                      
-                          tags$h4("This application is an improve of the code for text mining with R and Shiny for PDF documents developed by Fisseha Berhane."),
+                                              
                          
                           
                           tags$h4("Upload PDF documents (books, journals, surveys,etc.) from disk and/or provide links of PDF documents. 
